@@ -16,23 +16,6 @@
 - 👋 Hi, I’m 李瑞琦
 - 📫 How to reach me: 1009962019@qq.com
 
-## 项目 🚀
-
-<div align='center'>
-    <a href="https://github.com/1009962019/1009962019">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=1009962019&repo=1009962019&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="1009962019">
-    </a>
-    <a href="https://github.com/vuepress-star/vuepress-theme-star">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=vuepress-star&repo=vuepress-theme-star&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="1009962019">
-    </a>
-    <a href="https://github.com/1009962019/myzstu">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=1009962019&repo=myzstu&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="1009962019">
-    </a>
-    <a href="https://github.com/1009962019/nexus-client-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=1009962019&repo=nexus-client-go&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="1009962019">
-    </a>
-</div>
-
 ## 统计 🧩
 
 <div align='center'>
@@ -52,13 +35,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1009962019&theme=dark&hide_border=true&locale=cn&layout=compact" alt="Github Readme Stats">
     </a>
 </div>
-
-<div align='center'>
-    <a href="https://github.com/1009962019">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1009962019&theme=dark&hide_border=true&locale=cn" alt="Github Readme Stats">
-    </a>
-</div>
-
 
 <div align='center'>
     <a href="https://github.com/1009962019">
