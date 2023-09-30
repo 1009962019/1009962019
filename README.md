@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Li Ruiqi(李瑞琦).</h2>
+<h2> Hello! I'm Li Ruiqi(李瑞琦).</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fan-ziqi&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/fan-ziqi/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=1009962019&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/1009962019/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
