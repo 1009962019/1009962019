@@ -25,6 +25,12 @@
     </a>
 </div>
 
+<div align='left'>
+    <a href="https://github.com/1009962019">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1009962019&theme=github_dark" alt="github profile-details">
+    </a>
+</div>
+
 <div align='center'>
     <a href="https://github.com/1009962019">
         <img align='center' src="https://github.com/1009962019/.gitartwork/raw/main/gitartwork.svg" alt="Github Art Work">
