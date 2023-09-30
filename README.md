@@ -15,6 +15,12 @@
 ## 统计 🧩
 ---
 <div align='center'>
+    <a href="https://github.com/1009962019">
+        <img  align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1009962019" alt="github profile-details">
+    </a>
+</div>
+
+<div align='center'>
   <a href="https://github.com/1009962019">
       <img height=150 align='center' src="https://github-readme-stats.vercel.app/api?username=1009962019&show_icons=true&&theme=dark&hide_border=true&locale=cn" alt="Github Readme Stats">
   </a>
@@ -25,26 +31,20 @@
 
 <div align='center'>
     <a href="https://github.com/1009962019">
-        <img  align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1009962019&theme=github_dark" alt="github profile-details">
-    </a>
-</div>
-
-<div align='center'>
-    <a href="https://github.com/1009962019">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1009962019&theme=github_dark" alt="github stats">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1009962019" alt="github stats">
     </a>
     <a href="https://github.com/1009962019">
-        <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1009962019&theme=github_dark&utcOffset=8" alt="github productive-time">
+        <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1009962019&utcOffset=8" alt="github productive-time">
     </a>
 </div>
 
 
 <div align='center'>
     <a href="https://github.com/1009962019">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1009962019&theme=github_dark" alt="github most-commit-language">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1009962019" alt="github most-commit-language">
     </a>
     <a href="https://github.com/1009962019">
-        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1009962019&theme=github_dark" alt="github repos-per-language">
+        <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1009962019" alt="github repos-per-language">
     </a>
 </div>
 
