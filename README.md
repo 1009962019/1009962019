@@ -9,26 +9,23 @@
 [![Gitee](https://img.shields.io/badge/Gitee-1009962019-3e7f9g?logo=Gitee&logoColor=C71D23)](https://gitee.com/1009962019)
 
 
-<a href="https://github.com/1009962019">
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=1009962019&show_icons=true&&theme=dark&hide_border=true&locale=cn" alt="Github Readme Stats">
-</a>
-
 - 👋 Hi, I’m 李瑞琦
 - 📫 How to reach me: 1009962019@qq.com
 
 ## 统计 🧩
 ---
-
-
 <div align='center'>
-    <a href="https://github.com/1009962019">
-        <img align='center' src="https://github.com/1009962019/.gitartwork/raw/main/gitartwork.svg" alt="Github Art Work">
-    </a>
+  <a href="https://github.com/1009962019">
+      <img height=150 align='center' src="https://github-readme-stats.vercel.app/api?username=1009962019&show_icons=true&&theme=dark&hide_border=true&locale=cn" alt="Github Readme Stats">
+  </a>
+  <a href="https://github.com/1009962019">
+    <img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=1009962019&theme=dark&hide_border=true&locale=cn&layout=compact" alt="Github Readme Stats">
+  </a>
 </div>
 
 <div align='center'>
     <a href="https://github.com/1009962019">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1009962019&theme=dark&hide_border=true&locale=cn&layout=compact" alt="Github Readme Stats">
+        <img  align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1009962019&theme=github_dark" alt="github profile-details">
     </a>
 </div>
 
