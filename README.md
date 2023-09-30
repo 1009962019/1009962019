@@ -4,13 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 
-- 🎓 &nbsp; 机器人软硬件开发、嵌入式开发
-- 💼 &nbsp; 业余音乐爱好者
-- 🌱 &nbsp; 一枚想学机械的程序员
+- 🤔 &nbsp; 浙江理工大学机械电子工程&南京航空航天大学机械工程
+- 🎓 &nbsp; 嵌入式开发、计算机视觉、深度学习
 - ✍️ &nbsp; 个人主页：
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1009962019&theme=buefy&layout=compact"/>](https://github.com/1009962019/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,6 +41,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-  联系我：fanziqi614@gmail.com
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fan-ziqi.fan-ziqi.readme)
+  联系我：1009962019@qq.com
